@@ -1,0 +1,13 @@
+img
+{ transform:rotate(180deg);}
+
+nav
+{
+    background-color: lightskyblue;
+    color:lightcoral;
+    border:2px solid black;
+    border-top-left-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;
+    width: 100px;
+    height:500px;
+}
